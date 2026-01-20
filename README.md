@@ -61,11 +61,12 @@ raft-consensus/
 
 -Author-
 
-Nama: Dicka
+Nama: Dicka Avrillio Pratama
 Mata Kuliah: Distributed Computing
-Institusi: (isi sesuai kampus)
+Institusi: STMIK AMIK Bandung
 
 -Catatan-
 - Proyek ini dibuat untuk tujuan akademik
 - Implementasi disederhanakan agar mudah dipahami
+
 - Tidak mencakup log replication secara penuh
