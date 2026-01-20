@@ -70,3 +70,4 @@ Institusi: STMIK AMIK Bandung
 - Implementasi disederhanakan agar mudah dipahami
 
 - Tidak mencakup log replication secara penuh
+
